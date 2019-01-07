@@ -1,4 +1,4 @@
-### Garrison Analytics, LLC
+## Garrison Analytics, LLC
 
 Providers of data analytics consulting services.
 
